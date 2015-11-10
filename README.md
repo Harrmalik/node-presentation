@@ -1,2 +1,2 @@
 # node-presentation
-Presentation to tdeach how to use node, git, cloud9, and heroku
+Presentation to tdeach how to use node, git, scloud9, and heroku
